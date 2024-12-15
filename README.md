@@ -16,9 +16,22 @@
   - Ensures adherence to SOLID Principles for maintainable code.
   - Integrates Test-Driven Development (TDD) with optional testing templates.
   - Supports popular packages like GetX and Dio.
+
+- **[Get Translations Generator](https://github.com/genss333/flutter-modules-generator):**
+  A Dart CLI tool designed to streamline the process of generating translation files for Flutter applications. This tool automates the conversion of a CSV file containing translations into a Dart file compatible with the GetX package, making multi-language support   
+  faster and more efficient.
+    - **Key Features**
+      - Automated Translation File Generation:
+      - Converts translations from a CSV file into a structured Dart file for GetX.
+      - Supports multiple languages with key-value pairs.
+    - **Code Organization**
+      - Generates a Translations class for managing translation keys and their corresponding values.
+      - Includes a TranslateKeys class for type-safe key usage.
+    - **Easy Integration**
+      - The output Dart file is ready to be integrated directly into a Flutter project using GetX.
  
-- **[Generate Model](https://github.com/genss333/generate-model.git):**
-    A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
+- **[Generate Model](https://github.com/genss333/get_translations_generator.git):**
+  A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
     - **Key Features**
       - Automated JSON to Dart Conversion:
       - Uses the quicktype tool to generate Dart models from JSON files automatically.
@@ -30,8 +43,8 @@
       - the path to the JSON file and the desired Dart file output location.
 
 - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
-     A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers,       
-     providing features to enhance collaboration and interaction.
+  A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers,       
+  providing features to enhance collaboration and interaction.
   - **Key Features**
     - Job Matching:
       - Matches job seekers with relevant part-time job listings based on their profiles and preferences.
