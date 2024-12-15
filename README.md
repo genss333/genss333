@@ -32,7 +32,7 @@
 - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
      A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers,       
      providing features to enhance collaboration and interaction.
-   **Key Features**
+  - **Key Features**
     - Job Matching:
       - Matches job seekers with relevant part-time job listings based on their profiles and preferences.
     - Real-Time Chat:
@@ -41,7 +41,7 @@
       - Allows employers to create company profiles and post job openings for part-time positions.
     - Comment:
       - Can comment under the job post
-   **Tech Stack**
+  - **Tech Stack**
     - Frontend Frameworks:
       - Flutter: For building a responsive and intuitive user interface.
       - GetX: For efficient state management.
