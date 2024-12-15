@@ -10,14 +10,14 @@
 - **Flutter Testing**: Unit Tests, Widget Tests, Integration Tests
 
 ## Projects
-- **[Flutter Modules Generator](https://github.com/genss333/flutter-modules-generator):**  
+- **[Flutter Modules Generator](https://pub.dev/packages/flutter_modules_generator):**  
   A CLI tool for generating modular structures for Flutter projects.
   - Automatically generates modular and test-ready folder structures.
   - Ensures adherence to SOLID Principles for maintainable code.
   - Integrates Test-Driven Development (TDD) with optional testing templates.
   - Supports popular packages like GetX and Dio.
 
-- **[Get Translations Generator](https://github.com/genss333/flutter-modules-generator):**
+- **[Get Translations Generator](https://pub.dev/packages/get_translations_generator):**
   A Dart CLI tool designed to streamline the process of generating translation files for Flutter applications. This tool automates the conversion of a CSV file containing translations into a Dart file compatible with the GetX package, making multi-language support   
   faster and more efficient.
     - **Key Features**
