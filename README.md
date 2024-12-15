@@ -16,9 +16,22 @@
   - Ensures adherence to SOLID Principles for maintainable code.
   - Integrates Test-Driven Development (TDD) with optional testing templates.
   - Supports popular packages like GetX and Dio.
+ 
+- **[Generate Model](https://github.com/genss333/generate-model.git):**
+    A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
+    - Key Features
+      - Automated JSON to Dart Conversion:
+      - Uses the quicktype tool to generate Dart models from JSON files automatically.
+      - Ensures all properties are optional and final, improving null safety and immutability.
+    - Error Handling:
+      - Validates inputs and provides clear error messages if commands fail or arguments are missing.
+      - Simple Command-Line Interface:
+    - Accepts two arguments:
+      - the path to the JSON file and the desired Dart file output location.
 
- - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
-   A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers, providing     features to enhance collaboration and interaction.
+- **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
+     A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers,       
+     providing features to enhance collaboration and interaction.
    **Key Features**
     - Job Matching:
       - Matches job seekers with relevant part-time job listings based on their profiles and preferences.
@@ -31,12 +44,11 @@
    **Tech Stack**
     - Frontend Frameworks:
       - Flutter: For building a responsive and intuitive user interface.
-    - GetX: For efficient state management.
+      - GetX: For efficient state management.
     - Backend Integration:
       - Dio: For connecting to RESTful APIs.
     - Firebase Services:
       - Firebase Authentication: For secure user registration and login.
       - Firebase Cloud Messaging (FCM): For sending real-time notifications.
-  
 
 
