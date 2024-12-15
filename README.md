@@ -19,14 +19,14 @@
  
 - **[Generate Model](https://github.com/genss333/generate-model.git):**
     A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
-    - Key Features
+    - **Key Features**
       - Automated JSON to Dart Conversion:
       - Uses the quicktype tool to generate Dart models from JSON files automatically.
       - Ensures all properties are optional and final, improving null safety and immutability.
-    - Error Handling:
+    - **Error Handling**
       - Validates inputs and provides clear error messages if commands fail or arguments are missing.
       - Simple Command-Line Interface:
-    - Accepts two arguments:
+    - **Accepts two arguments**
       - the path to the JSON file and the desired Dart file output location.
 
 - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
