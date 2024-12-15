@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tatsapon Munsan 👋
+🚀 Mobile Developer specializing in Flutter and Native Integration (Kotlin/Swift)  
+🌟 Passionate about SOLID Principles, Clean Architecture, and TDD  
+📫 Reach me at: your-email@example.com
 
-<!--
-**genss333/genss333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Programming Languages**: Dart, Kotlin, Swift, JavaScript
+- **Frameworks**: Flutter, React.js, Next.js
+- **Tools**: Git, Firebase, Jenkins, Docker, Allure
+- **Testing**: Unit Tests, Integration Tests, E2E Tests with Appium
 
-Here are some ideas to get you started:
+## Projects
+- **[Flutter Modules Generator](https://github.com/your-username/flutter-modules-generator):**  
+  A CLI tool for generating modular structures for Flutter projects.
+  - **Technologies Used:** Dart, GetX, TDD  
+  - **Key Features:** Automates module generation, supports testing, adheres to SOLID principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Tiger Design Website](https://github.com/your-username/tiger-design):**  
+  A website showcasing reusable Flutter widgets with live examples and ready-to-use code.
+  - **Technologies Used:** Flutter, Firebase Hosting, HTML/CSS  
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
