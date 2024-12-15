@@ -12,11 +12,9 @@
 ## Projects
 - **[Flutter Modules Generator](https://github.com/your-username/flutter-modules-generator):**  
   A CLI tool for generating modular structures for Flutter projects.
-  - **Technologies Used:** Dart, GetX, TDD  
-  - **Key Features:** Automates module generation, supports testing, adheres to SOLID principles.
-
-- **[Tiger Design Website](https://github.com/your-username/tiger-design):**  
-  A website showcasing reusable Flutter widgets with live examples and ready-to-use code.
-  - **Technologies Used:** Flutter, Firebase Hosting, HTML/CSS  
+  - Automatically generates modular and test-ready folder structures.
+  - Ensures adherence to SOLID Principles for maintainable code.
+  - Integrates Test-Driven Development (TDD) with optional testing templates.
+  - Supports popular packages like GetX and Dio.
 
 
