@@ -20,5 +20,5 @@
   - **Technologies Used:** Flutter, Firebase Hosting, HTML/CSS  
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?genss333=genss333e&show_icons=true&theme=radical)
 
