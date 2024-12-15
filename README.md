@@ -19,6 +19,4 @@
   A website showcasing reusable Flutter widgets with live examples and ready-to-use code.
   - **Technologies Used:** Flutter, Firebase Hosting, HTML/CSS  
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?genss333=genss333&show_icons=true&theme=radical)
 
