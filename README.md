@@ -41,6 +41,9 @@
       - Simple Command-Line Interface:
     - **Accepts two arguments**
       - the path to the JSON file and the desired Dart file output location.
+     
+- **[Tiger Components Extension](https://github.com/genss333/tiger-components-extensions.git)**
+  A Code snippets in Vscode Extension, This extension provides a collection of code snippets for the tiger_components library, designed to help you quickly create and use various button components, API classes, services, and use cases in your Dart projects.
 
 - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
   A capstone project built during university, designed to help users find part-time jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job-matching experience. The project connects job seekers with potential employers,       
