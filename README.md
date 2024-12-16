@@ -59,8 +59,7 @@
       - Flutter: For building a responsive and intuitive user interface.
       - GetX: For efficient state management.
     - Backend Integration:
-      - Dio: For connecting to RESTful APIs. **[Part-Time Finder API ](https://github.com/genss333/part-time_finder-api.git):**
-      - API Create with Spring Boot Framework and MariaDB
+      - Dio: For connecting to RESTful APIs. **[Part-Time Finder API ](https://github.com/genss333/part-time_finder-api.git):** This API Create with Spring Boot Framework and MariaDB
     - Firebase Services:
       - Firebase Authentication: For secure user registration and login.
       - Firebase Cloud Messaging (FCM): For sending real-time notifications.
