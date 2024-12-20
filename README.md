@@ -30,7 +30,7 @@
     - **Easy Integration**
       - The output Dart file is ready to be integrated directly into a Flutter project using GetX.
  
-- **[Generate Model](https://github.com/genss333/get_translations_generator.git):**
+- **[Generate Model](https://github.com/genss333/generate-model.git):**
   A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
     - **Key Features**
       - Automated JSON to Dart Conversion:
