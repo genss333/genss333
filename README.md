@@ -6,8 +6,8 @@
 ## Skills
 - **Programming Languages**: Dart, Java, Kotlin, Swift, JavaScript
 - **Frameworks**: Flutter, React.js, Next.js, Spring Boot,
-- **Tools**: Git, Firebase, GitHub, GitLab
-- **Flutter Testing**: Unit Tests, Widget Tests, Integration Tests
+- **Tools**: Git, GitHub, GitLab, Firebase
+- **Flutter Testing**: Unit Tests, Widget Tests, Integration Tests, E2E Testing with patrol, Firebase Test Lab
 
 ## Projects
 - **[Flutter Modules Generator](https://pub.dev/packages/flutter_modules_generator):**  
