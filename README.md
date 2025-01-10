@@ -45,7 +45,7 @@
 - **[macOS Development Setup Script](https://github.com/genss333/macos-setup-script.git):**
    Bash script to set up a development environment on macOS. The script automates the installation of essential tools like Homebrew, Flutter, Xcode, Android Studio, Node.js, and other dependencies.
      
-- **[Tiger Components Extension](https://github.com/genss333/tiger-components-extensions.git)**
+- **[Tiger Components Extension](https://gitlab.com/genss333/tiger-components-extensions)**
   A Code snippets in Vscode Extension, This extension provides a collection of code snippets for the tiger_components library, designed to help you quickly create and use various button components, API classes, services, and use cases in your Dart projects.
 
 - **[Part-Time Finder ](https://github.com/genss333/partime_finder.git):**
