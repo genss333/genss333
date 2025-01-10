@@ -49,9 +49,9 @@
   A Code snippets in Vscode Extension, This extension provides a collection of code snippets for the tiger_components library, designed to help you quickly create and use various button components, API classes, services, and use cases in your Dart projects.
 
 - **University Final Project**
-  **[Job Finder ](https://github.com/genss333/partime_finder.git):** **(Flutter Framework)**
-  **[Job Finder API ](https://github.com/genss333/part-time_finder-api.git):** **(Java Spring Boot Framework)**
-  **[Job Finder ](https://github.com/genss333/job_finder.git):** **(React Framework)**
+  - **[Job Finder ](https://github.com/genss333/partime_finder.git):** **(Flutter Framework)**
+  - **[Job Finder API ](https://github.com/genss333/part-time_finder-api.git):** **(Java Spring Boot Framework)**
+  - **[Job Finder ](https://github.com/genss333/job_finder.git):** **(React Framework)**
    
   A capstone project built during university, designed to help users find jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job- matching experience. The project connects job seekers with potential employers,       
   providing features to enhance collaboration and interaction.
