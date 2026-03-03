@@ -1,78 +1,71 @@
 # Hi, I'm Tatsapon Munsan 👋
-🚀 Mobile Developer specializing in Flutter and Native Integration (Kotlin/Swift)  
-🌟 Passionate about SOLID Principles, Clean Architecture, and TDD  
-📫 Reach me at: tusspon.moo2@gmail.com
 
-## Skills
-- **Programming Languages**: Dart, Java, Kotlin, Swift, JavaScript
-- **Frameworks**: Flutter, React.js, Next.js, Spring Boot,
-- **Tools**: Git, GitHub, GitLab, Firebase
-- **Flutter Testing**: Unit Tests, Widget Tests, Integration Tests, E2E Testing with patrol, Firebase Test Lab
+Software Developer specializing in **Mobile Architecture (Flutter)**, **High-Performance Backend (Go)**, and **Enterprise SaaS** solutions. Experienced in building scalable, production-grade systems — from IoT-driven mobile applications to cloud-native microservices serving thousands of corporate clients.
 
-## Projects
-- **[Flutter Modules Generator](https://pub.dev/packages/flutter_modules_generator):**  
-  A CLI tool for generating modular structures for Flutter projects.
-  - Automatically generates modular and test-ready folder structures.
-  - Ensures adherence to SOLID Principles for maintainable code.
-  - Integrates Test-Driven Development (TDD) with optional testing templates.
-  - Supports popular packages like GetX and Dio.
+Key highlights:
+- Led mobile development for a **Cloud HR & Payroll platform** serving **2,000+ corporate clients**
+- Engineered a **Go-based DB Transfer Engine** that reduced legacy data migration from **3 hours → 5 minutes** (97% improvement)
+- Architected an **event-driven Email Microservice** deployed on Kubernetes with RabbitMQ and Kong Gateway
+- Delivered end-to-end IoT mobile solution integrating **Nedap sensors** for real-time livestock management
 
-- **[Get Translations Generator](https://pub.dev/packages/get_translations_generator):**
-  A Dart CLI tool designed to streamline the process of generating translation files for Flutter applications. This tool automates the conversion of a CSV file containing translations into a Dart file compatible with the GetX package, making multi-language support   
-  faster and more efficient.
-    - **Key Features**
-      - Automated Translation File Generation:
-      - Converts translations from a CSV file into a structured Dart file for GetX.
-      - Supports multiple languages with key-value pairs.
-    - **Code Organization**
-      - Generates a Translations class for managing translation keys and their corresponding values.
-      - Includes a TranslateKeys class for type-safe key usage.
-    - **Easy Integration**
-      - The output Dart file is ready to be integrated directly into a Flutter project using GetX.
- 
-- **[Generate Model](https://github.com/genss333/generate-model.git):**
-  A Bash script developed to streamline the process of generating Dart models from JSON files using quicktype. This tool is designed to save time and reduce manual work when handling API responses in Flutter projects by automating the conversion of JSON data to Dart       classes.
-    - **Key Features**
-      - Automated JSON to Dart Conversion:
-      - Uses the quicktype tool to generate Dart models from JSON files automatically.
-      - Ensures all properties are optional and final, improving null safety and immutability.
-    - **Error Handling**
-      - Validates inputs and provides clear error messages if commands fail or arguments are missing.
-      - Simple Command-Line Interface:
-    - **Accepts two arguments**
-      - the path to the JSON file and the desired Dart file output location.
-     
-- **[macOS Development Setup Script](https://github.com/genss333/macos-setup-script.git):**
-   Bash script to set up a development environment on macOS. The script automates the installation of essential tools like Homebrew, Flutter, Xcode, Android Studio, Node.js, and other dependencies.
-     
-- **[Tiger Components Extension](https://gitlab.com/genss333/tiger-components-extensions)**
-  A Code snippets in Vscode Extension, This extension provides a collection of code snippets for the tiger_components library, designed to help you quickly create and use various button components, API classes, services, and use cases in your Dart projects.
+---
 
-- **University Final Project**
-  - **[Job Finder ](https://github.com/genss333/partime_finder.git):** **(Flutter Framework)**
-  - **[Job Finder API ](https://github.com/genss333/part-time_finder-api.git):** **(Java Spring Boot Framework)**
-  - **[Job Finder ](https://github.com/genss333/job_finder.git):** **(React Framework)**
-   
-  A capstone project built during university, designed to help users find jobs. It integrates various modern tools and frameworks to deliver a seamless and efficient job- matching experience. The project connects job seekers with potential employers,       
-  providing features to enhance collaboration and interaction.
-  - **Key Features**
-    - Job Matching:
-      - Matches job seekers with relevant part-time job listings based on their profiles and preferences.
-    - Real-Time Chat:
-      - Enables job seekers and employers to communicate instantly through an integrated real-time chat system.
-    - Company Creation and Job Posting:
-      - Allows employers to create company profiles and post job openings for part-time positions.
-    - Comment:
-      - Can comment under the job post
-  - **Tech Stack**
-    - Frontend Frameworks:
-      - Flutter: For building a responsive and intuitive user interface.
-      - GetX: For efficient state management.
-    - Backend Integration:
-      - Dio: For connecting to RESTful APIs.
-    - Firebase Services:
-      - Firebase Authentication: For secure user registration and login.
-      - Firebase Cloud Messaging (FCM): For sending real-time notifications.
+## Technical Skills
 
+| Domain | Technologies |
+|---|---|
+| **Mobile** | Flutter, GetX, Dio, Firebase (FCM), Biometric Auth |
+| **Backend** | Go (Golang), Java Spring Boot, JPA/ORM, RabbitMQ |
+| **Frontend** | Next.js, Zustand (Slice Pattern), TanStack Query, shadcn/ui |
+| **Infrastructure** | Kong API Gateway, Grafana |
+| **Security** | Firebase Auth, Microsoft SSO, OAuth2, Microsoft Graph API, SMTP |
+| **Databases** | MariaDB (legacy migration expertise) |
 
+---
 
+## Professional Experience
+
+### Consultant Mobile Application Developer
+**TigerSoft (1998) Co. Ltd.** · Bangkok, Thailand · *May 2024 – Present*
+
+Lead mobile development of **TigerOpenSpace** — TigerSoft's flagship SaaS HRMS platform, modernizing HR & Payroll workflows for **2,000+ enterprise clients** across Thailand.
+
+**Mobile Architecture & Core Development**
+- Architected the application using **Flutter Clean Architecture** with **GetX** for reactive state management, dependency injection, and centralized routing
+- Built a resilient API communication layer with **Dio** featuring global interceptors for auto-token injection, silent token refresh, and centralized error handling — maintaining **99.9% session uptime**
+- Integrated **Firebase Auth**, **Microsoft SSO**, and **Biometric Auth** (Face ID / Fingerprint) for PDPA-compliant protection of sensitive payroll and personal data
+- Developed core HR modules: **GPS-based Time Attendance**, Leave Management, and real-time **Push Notifications (FCM)** across all app states (Foreground, Background, Terminated)
+- Created a reusable **TigerSoft Widget Library** (Custom Forms, Date Pickers, Modals), cutting new-feature development lifecycle by **30%**
+
+**Web Dashboard (Next.js)**
+- Developed internal dashboards using **Next.js** and **shadcn/ui**, applying Clean Architecture to decouple business logic from the UI
+- Managed global state with **Zustand (Slice Pattern)** and optimized server-state with **TanStack Query (React Query)** — enabling efficient caching, background sync, and optimistic UI updates
+
+**Backend & Infrastructure Engineering**
+- **DB Transfer Engine (Go):** Designed and built a concurrent data migration tool to transfer 1–2 GB of legacy customer data to modern schemas. Result: reduced migration runtime from **3 hours → under 5 minutes** (97% performance gain) via Go concurrency primitives
+- **Enterprise Email Microservice:** Built an event-driven mailing service on **RabbitMQ** with multi-provider support (Microsoft Graph API, OAuth2, SMTP/Gmail)
+- **Cloud Infrastructure:** Deployed services on **Kubernetes (K8s)** with **Kong API Gateway** for traffic management; established **Grafana** observability dashboards for real-time monitoring
+
+---
+
+### Junior Software Developer
+**Zyntelligent** · Maha Sarakham, Thailand · *October 2023 – April 2024*
+
+**Project: SianWua (เซียนวัว) — Smart Livestock Management System**
+
+Led end-to-end development of a specialized mobile platform for cattle farm management, bridging real-time IoT sensor data with enterprise-grade mobile architecture.
+
+- **IoT Integration:** Architected integration with **Nedap livestock sensors** via API for real-time monitoring of cow health, heat detection (estrus), and illness alerts — enabling data-driven farm management
+- **Mobile Development (Flutter & GetX):** Built an offline-first mobile UI optimized for rugged farm environments with reactive state management
+- **Networking & Alerts:** Managed complex data synchronization with **Dio** and implemented **Firebase Cloud Messaging (FCM)** for critical real-time alerts (health emergencies, breeding windows)
+- **Backend Contribution (Java Spring Boot):** Developed backend services using **Spring Boot** with **JPA/ORM** for structured data persistence in MariaDB
+- **Feature Engineering:** Designed and shipped core modules — Cattle Registration, Health Tracking, and Breeding Cycle Management
+
+---
+
+## Education
+
+**Bachelor of Science in Information Technology**
+Mahasarakham University · Graduated May 2024
+
+---
